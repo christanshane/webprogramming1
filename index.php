@@ -40,9 +40,9 @@ include_once("connection.php");
   <br>
   <br>
 
-    <div class="container jumbotron">
+    <div class="container jumbotron center">
 
-      <form class="form-signin" method="post">
+      <form class="form-signin" method="post" action="login.php">
         <h2 class="form-signin-heading">Please sign in</h2>
         <br>
         <label for="inputEmail" class="sr-only">Email address</label>
